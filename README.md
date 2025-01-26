@@ -13,3 +13,7 @@ cd Python-Password-Manager
    pip install cryptography
 4. Run the program:
    python password_manager.py
+5. Generate the encryption key if it's the first time running the program:
+    from password_manager import generate_key
+    generate_key()
+This project is licensed under the MIT License – see the LICENSE file for details.
