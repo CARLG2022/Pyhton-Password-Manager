@@ -16,4 +16,5 @@ cd Python-Password-Manager
 5. Generate the encryption key if it's the first time running the program:
     from password_manager import generate_key
     generate_key()
+# License
 This project is licensed under the MIT License – see the LICENSE file for details.
