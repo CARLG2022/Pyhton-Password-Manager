@@ -14,6 +14,7 @@ cd Python-Password-Manager
 4. Run the program:
    python password_manager.py
 5. Generate the encryption key if it's the first time running the program:
+
     from password_manager import generate_key
     generate_key()
 # License
